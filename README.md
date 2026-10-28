@@ -5,11 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sindhant&label=Profile%20views&color=0e75b6&style=flat" alt="sindhant" /> </p>
 
-- 🔭 I’m currently working on [Educine](https://github.com/Sindhant)
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👨‍💻 All of my projects are available at [https://mycvv.pages.dev/](https://mycvv.pages.dev/)
 
 - 📫 How to reach me **sindhantchandwal@gmail.com**
 
